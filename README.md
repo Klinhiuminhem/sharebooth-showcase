@@ -1,4 +1,4 @@
-# sharebooth-showcase
+# Sharebooth.fun-showcase
 Winner — Best Use of DigitalOcean — Hack(H)er413 2026
 ![Join & Snap Photos](assets/3.png)
 ![Join & Snap Photos](assets/4.png)
