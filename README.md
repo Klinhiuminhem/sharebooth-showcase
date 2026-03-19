@@ -22,8 +22,5 @@ ShareBooth brings people together from anywhere — create a booth session, shar
 - Camera & Segmentation: WebRTC + MediaPipe
 - Backend: Node.js + Express
 
-## 📸 Demo Screenshot / GIF
-*(Add a GIF here showing join + snapping photos)*
-
 ## 🏆 Highlight
 Winner — Best Use of DigitalOcean — Hack(H)er413 2026
