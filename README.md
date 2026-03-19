@@ -1,6 +1,5 @@
 # sharebooth-showcase
 Winner — Best Use of DigitalOcean — Hack(H)er413 2026
-# 📸 ShareBooth — Real‑Time Collaborative Photobooth
 ![Join & Snap Photos](assets/3.png)
 ![Join & Snap Photos](assets/4.png)
 
